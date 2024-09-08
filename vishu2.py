@@ -159,8 +159,8 @@ def approval():
       print ('Tool Owner: Naziir')
       print("Your Token : "+id)
       input('IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Naziir sir%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20'+id)
-      os.system('am start https://wa.me/+918882567807?text='+tks)
+      tks = ('Hello%20Piyush sir%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20'+id)
+      os.system('am start https://wa.me/+917043592870?text='+tks)
       approval()
       time.sleep(1)
       
